@@ -1,1 +1,1 @@
-# identfy-handwritten-number
+# identify-handwritten-number
